@@ -24,6 +24,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+~~~~
 <html>
 <head>
 <title>Slot Timetable</title>
@@ -108,6 +109,7 @@ Execute the program using runserver command.
 <td>Principles of Chemistry in Engineering (CHE)</td>
 </tr>
 <tr>
+~~~
 
 ## OUTPUT
 ![alt text](<Screenshot 2025-12-05 111613.png>)
